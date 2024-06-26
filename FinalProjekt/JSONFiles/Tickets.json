@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "667bfb4b4fce6ebafe13076a"
+  },
+  "ticket_code": "A/5 21171",
+  "pClass": "3",
+  "boarding_port": "S",
+  "destination_port": "C",
+  "ticket_count": 1,
+  "fare": "7.25",
+  "embarking_port": "S",
+  "cabin_id": {
+    "$oid": "66573a25d78495915fe5b2b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "667bfb4b4fce6ebafe13076b"
+  },
+  "ticket_code": "347742",
+  "pClass": "3",
+  "boarding_port": "S",
+  "destination_port": "C",
+  "ticket_count": 2,
+  "fare": "11.1333",
+  "embarking_port": "S",
+  "cabin_id": {
+    "$oid": "66573a25d78495915fe5b2b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "667bfb4b4fce6ebafe13076c"
+  },
+  "ticket_code": "113789",
+  "pClass": "1",
+  "boarding_port": "S",
+  "destination_port": "C",
+  "ticket_count": 1,
+  "fare": "52",
+  "embarking_port": "S",
+  "cabin_id": {
+    "$oid": "66573a25d78495915fe5b2b4"
+  }
+}]

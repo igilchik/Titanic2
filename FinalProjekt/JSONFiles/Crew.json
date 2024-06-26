@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "665b227c9bec9236447cf54f"
+  },
+  "first_name": "Edward John",
+  "last_name": "Smith",
+  "role": "Captain",
+  "crew_id": "1",
+  "assignedBoat_id": {
+    "$oid": "665b54ac6cd333fdb1628c1b"
+  },
+  "cabin": {
+    "cabine_number": "B140",
+    "cabine_name": "BZP0D",
+    "deck": "B"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b227c9bec9236447cf553"
+  },
+  "first_name": "Henry",
+  "last_name": "Wilde",
+  "role": "Senior assistant to the captain",
+  "crew_id": "2",
+  "assignedBoat_id": {
+    "$oid": "665b54ac6cd333fdb1628c1b"
+  },
+  "cabin": {
+    "cabine_number": "С123",
+    "cabine_name": "H64OE",
+    "deck": "С"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b227c9bec9236447cf557"
+  },
+  "first_name": "William McMaster",
+  "last_name": "Murdoch",
+  "role": "First assistant",
+  "crew_id": "3",
+  "assignedBoat_id": {
+    "$oid": "665b54ac6cd333fdb1628c1b"
+  },
+  "cabin": {
+    "cabine_number": "B114",
+    "cabine_name": "X13F9",
+    "deck": "B"
+  }
+}]

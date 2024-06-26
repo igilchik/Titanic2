@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "66573a25d78495915fe5b2b5"
+  },
+  "passenger_id": "1",
+  "address": {
+    "street": "305 Example St",
+    "postal_code": "1011",
+    "town": "Amsterdam",
+    "country": "Netherlands",
+    "state": "North Holland"
+  },
+  "first_name": "Mr. Owen Harris",
+  "last_name": "Braund",
+  "genders": "male",
+  "age": "22",
+  "survived": 1,
+  "SibSp": "1",
+  "ParCh": "0",
+  "family_size": 1,
+  "cabin": {
+    "cabine_number": "D117",
+    "cabine_name": "GDYXI",
+    "deck": "D"
+  },
+  "lifeboat_id": {
+    "$oid": "667c0fb19c38c27f0a19fafc"
+  },
+  "ticket_id": {
+    "$oid": "667c0fb19c38c27f0a19fafb"
+  }
+},
+{
+  "_id": {
+    "$oid": "66573a25d78495915fe5b2b8"
+  },
+  "passenger_id": "2",
+  "address": {
+    "street": "180 Example St",
+    "postal_code": "90001",
+    "town": "Los Angeles",
+    "country": "USA",
+    "state": "California"
+  },
+  "first_name": "Mrs. John Bradley (Florence Briggs Thayer)",
+  "last_name": "Cumings",
+  "genders": "female",
+  "age": "38",
+  "survived": 1,
+  "SibSp": "1",
+  "ParCh": "0",
+  "family_size": 1,
+  "cabin": {
+    "cabine_number": "C101",
+    "cabine_name": "DKLQ8",
+    "deck": "C"
+  },
+  "lifeboat_id": {
+    "$oid": "667c0fb19c38c27f0a19fafe"
+  },
+  "ticket_id": {
+    "$oid": "667c0fb19c38c27f0a19fafd"
+  }
+},
+{
+  "_id": {
+    "$oid": "66573a26d78495915fe5b2ba"
+  },
+  "passenger_id": "3",
+  "address": {
+    "street": "975 Example St",
+    "postal_code": "0150",
+    "town": "Oslo",
+    "country": "Norway",
+    "state": "Oslo"
+  },
+  "first_name": "Miss. Laina",
+  "last_name": "Heikkinen",
+  "genders": "female",
+  "age": "26",
+  "survived": 1,
+  "SibSp": "0",
+  "ParCh": "0",
+  "family_size": 0,
+  "cabin": {
+    "cabine_number": "G125",
+    "cabine_name": "YC0JE",
+    "deck": "G"
+  },
+  "lifeboat_id": {
+    "$oid": "667c0fb19c38c27f0a19fb00"
+  },
+  "ticket_id": {
+    "$oid": "667c0fb19c38c27f0a19faff"
+  }
+}]

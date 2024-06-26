@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "665b38b8202a32c65dc47eee"
+  },
+  "lifeboat_id": "1",
+  "capacity": 65,
+  "launchTime": "1912-04-15T00:43:00",
+  "survivorsCount": 33
+},
+{
+  "_id": {
+    "$oid": "665b38b8202a32c65dc47ef0"
+  },
+  "lifeboat_id": "2",
+  "capacity": 65,
+  "launchTime": "1912-04-15T00:51:00",
+  "survivorsCount": 6
+},
+{
+  "_id": {
+    "$oid": "665b38b8202a32c65dc47ef2"
+  },
+  "lifeboat_id": "3",
+  "capacity": 65,
+  "launchTime": "1912-04-15T00:58:00",
+  "survivorsCount": 18
+}]
